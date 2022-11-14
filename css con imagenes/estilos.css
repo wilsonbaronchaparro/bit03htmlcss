@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header,
+nav,
+main,
+aside,
+footer {
+    background-color: red;
+    color: white;
+    border: 2px solid black; 
+}
+
+header,
+nav,
+footer {
+width: 1024px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    height: 88px;
+}
+
+nav {
+    height: 48px;
+}
+
+main,
+aside {
+    width: 340px;
+}
+
+main {
+    width: 800px;
+}
+
+aside {
+width: 220px;
+
+}
+
+footer {height: 32px;}
+
+.div1 {border: 2px solid black}
+.div2 {border: 2px solid black}
+.div3 {border: 2px solid black}
+.div4 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2 {display: flex;
+    justify-content: center;
+    align-items: center;}  
+.div5 {
+    border: 1px solid black
+    }
+
+.div6 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div7 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div8 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div9 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div10 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
