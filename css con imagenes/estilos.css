@@ -54,49 +54,295 @@ width: 220px;
 
 footer {height: 32px;}
 
-.div1 {border: 2px solid black}
-.div2 {border: 2px solid black}
-.div3 {border: 2px solid black}
-.div4 {
+.div1 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
 }
-.h2 {display: flex;
+.div2 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    display: flex;
     justify-content: center;
-    align-items: center;}  
+    align-items: center;
+    color: black;
+}
+.div3 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.div4 {
+    font-family: 'Lora', serif;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.h2-1 {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.h2-2{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.h2-3 {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-4 {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-5 {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-6 {
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-7{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-8{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-9{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-10{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2-11{
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h3 {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .div5 {
-    border: 1px solid black
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    display: flex;
+    color: black;
     }
 
 .div6 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
 }
 .div7 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
 }
 .div8 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
 }
 .div9 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
 }
 .div10 {
+    font-family: 'Roboto', sans-serif;
     border: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: black;
+}
+.div11 {
+    border: 1px solid black;
+    
+}
+.div12 {
+    border: 1px solid black;
+    
+}
+.div13 {
+    border: 1px solid black;
+    
+}
+.div14 {
+    border: 1px solid black;
+    
+}
+.div15 {
+    border: 1px solid black;
+    
+}
+.spanimagen1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.spanimagen2 {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.spanimagen3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen5 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen6 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen7 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen8 {
+    display: flex;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanimagen9 {
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.odaprimercap {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.odacoloreando {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-family: 'Space Mono', monospace;
+    color: black;
+}
+ul {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
+ol {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
+h1 {
+    font-family: 'Lora', serif;
+}
+h2 {
+    color: #724501;
+}
+h3 {
+    color: #724501;
 }
